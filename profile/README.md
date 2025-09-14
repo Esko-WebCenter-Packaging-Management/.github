@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://esko-webcenter-packaging-management.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_Esko_WebCenter-blue?style=for-the-badge&logo=github" alt="Download Esko WebCenter"/>
+    <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/23/d9/39/23d939ad-4cb6-f202-f823-6535eb1077af/WCRAppIcon-1x_U007emarketing-0-10-0-85-220.png/1200x600wa.png" alt="Download Esko WebCenter"/>
   </a>
 </p>
 
